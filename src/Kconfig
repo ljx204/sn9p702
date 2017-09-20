@@ -1,0 +1,5 @@
+config MIDAS-DRIVER
+	tristate "OID_SN9P702"
+        default m
+	help
+	   This is OID Driver.
